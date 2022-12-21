@@ -11,8 +11,8 @@ Referring to the original [Wiring Diagram](./assets/Wiring%20diagram.jpg), this 
 
 | Pico   | Xiao   | Function |
 |--------|--------|----------|
-| GP4    | P1     | CLK      |
-| GP5    | P2     | CS       |
+| GP4    | P1     | CS       |
+| GP5    | P2     | CLK      |
 | GP6&7  | P26&27 | DATA     |
 
 GND and 3V3 should be fairly obvious.
